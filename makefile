@@ -9,3 +9,10 @@ MarkdownParse.class: MarkdownParse.java
 
 MarkdownParseTest.class: MarkdownParseTest.java
 	javac MarkdownParseTest.java
+
+
+
+MarkdownParse.class: MarkdownParse.java
+	javac MarkdownParse.java
+
+MarkdownParseTest.class: M
